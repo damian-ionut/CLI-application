@@ -1,0 +1,19 @@
+{
+  "name": "nodejs---tema-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "commander": "^12.1.0",
+    "yargs": "^17.7.2"
+  }
+}
